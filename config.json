@@ -1,6 +1,6 @@
 {
     "KEY": "Your Azure API KEY",
     "ENDPOINT": "Your Azure Endpoint",
-    "EMAIL-ID": "tilakgavara@gmail.com",
-    "EMAIL-PASSWORD": "Tilak@2002"
+    "EMAIL-ID": "gmail",
+    "EMAIL-PASSWORD": "password"
 }
